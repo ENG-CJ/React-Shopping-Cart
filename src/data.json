@@ -1,0 +1,39 @@
+{
+    "items":[
+        {
+            "id": 1,
+            "image": "t-1.jfif",
+            "itemName": "T-shirt Forth",
+            "size": "large",
+            "USD": "$100"
+        },
+        {
+            "id": 2,
+            "image": "t-2.jfif",
+            "itemName": "T-shirt HMXL",
+            "size": "XL",
+            "USD": "$120"
+        },
+        {
+            "id": 3,
+            "image": "t-1.jfif",
+            "itemName": "T-shirt Pull Code",
+            "size": "large",
+            "USD": "$20"
+        },
+        {
+            "id": 4,
+            "image": "t-1.jfif",
+            "itemName": "T-shirt Semi Code",
+            "size": "large",
+            "USD": "$40"
+        },
+        {
+            "id": 5,
+            "image": "t-2.jfif",
+            "itemName": "Jfif semi T-shirt",
+            "size": "large",
+            "USD": "$20"
+        }
+    ]
+}
